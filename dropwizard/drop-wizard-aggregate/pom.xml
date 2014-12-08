@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+		<groupId>com.zonga.product</groupId>
+		<artifactId>com.zonga.maven</artifactId>
+		<version>1.0-SNAPSHOT</version>
+		<relativePath>../drop-wizard-maven</relativePath>
+	</parent>
+
+    <name>zonga-aggregate</name>
+    <groupId>com.zonga.product</groupId>
+    <artifactId>com.zonga.aggregate</artifactId>
+	<packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+		<module>../drop-wizard-maven</module>
+		<module>../drop-wizard-api</module>
+		<module>../drop-wizard-client</module>
+		<module>../drop-wizard-application</module>
+	</modules>
+
+
+</project>
