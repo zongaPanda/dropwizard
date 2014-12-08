@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee388f74-0c2f-4116-9c2e-736d01674c23" name="Default" comment="">
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\encodings.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_annotation_3_0_1.xml" afterPath="" />
@@ -65,39 +62,8 @@
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_6.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_6.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\modules.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\com.zonga.aggregate.iml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-api\com.zonga.api.iml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-api\target\com.zonga.api-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-api\target\maven-archiver\pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\com.zonga.webservice.iml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\drop-wizard-application.iml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\application\MyApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\configuration\MyConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\core\Saying.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\resources\MyResource.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\configuration\config.yml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\com.zonga.webservice-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\maven-archiver\pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-client\com.zonga.client.iml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-client\target\com.zonga.client-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-client\target\maven-archiver\pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-maven\com.zonga.maven.iml" afterPath="" />
     </list>
     <ignored path="com.zonga.aggregate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -280,7 +246,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,9 +254,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.zonga.aggregate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drop-wizard-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.zonga.aggregate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drop-wizard-aggregate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -707,7 +693,7 @@
       <updated>1418051387949</updated>
       <workItem from="1418051391430" duration="1480000" />
       <workItem from="1418052924079" duration="4078000" />
-      <workItem from="1418057057991" duration="1810000" />
+      <workItem from="1418057057991" duration="1954000" />
     </task>
     <task id="LOCAL-00001" summary="local change.">
       <created>1418054014110</created>
@@ -727,11 +713,17 @@
       <option name="project" value="LOCAL" />
       <updated>1418058767108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete git ignore.">
+      <created>1418058935534</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1418058935535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7368000" />
+    <option name="totallyTimeSpent" value="7512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
@@ -815,7 +807,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="local change." />
-    <option name="LAST_COMMIT_MESSAGE" value="local change." />
+    <MESSAGE value="delete git ignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="delete git ignore." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
