@@ -1,9 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee388f74-0c2f-4116-9c2e-736d01674c23" name="Default" comment="local change.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="ee388f74-0c2f-4116-9c2e-736d01674c23" name="Default" comment="">
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_annotation_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_core_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_healthchecks_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_jersey_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_jetty9_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_json_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_jvm_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_logback_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_codahale_metrics_metrics_servlets_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_google_code_findbugs_jsr305_2_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_google_guava_guava_16_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_sun_jersey_jersey_core_1_18_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_sun_jersey_jersey_server_1_18_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__com_sun_jersey_jersey_servlet_1_18_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_configuration_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_core_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_jackson_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_jersey_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_jetty_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_lifecycle_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_logging_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_metrics_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_servlets_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_util_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__io_dropwizard_dropwizard_validation_0_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__javax_el_javax_el_api_2_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__joda_time_joda_time_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__net_sourceforge_argparse4j_argparse4j_0_4_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_continuation_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_http_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_io_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_security_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_server_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_servlet_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_servlets_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_jetty_util_9_0_7_v20131107.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_eclipse_jetty_toolchain_setuid_jetty_setuid_java_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_glassfish_web_javax_el_2_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-aggregate\com.zonga.aggregate.iml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-api\com.zonga.api.iml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-api\target\com.zonga.api-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-api\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\com.zonga.webservice.iml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\drop-wizard-application.iml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\application\MyApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\configuration\MyConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\core\Saying.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\com\zonga\webservice\resources\MyResource.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\classes\configuration\config.yml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\com.zonga.webservice-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-application\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-client\com.zonga.client.iml" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-client\target\com.zonga.client-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-client\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="H:\IdeaProjects\dropwizard\drop-wizard-maven\com.zonga.maven.iml" afterPath="" />
     </list>
     <ignored path="com.zonga.aggregate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +130,7 @@
       <file leaf-file-name="MyResource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../drop-wizard-application/src/main/java/com.zonga.webservice/resources/MyResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45012787" vertical-offset="0" max-vertical-offset="391">
+            <state vertical-scroll-proportion="0.5146199" vertical-offset="0" max-vertical-offset="342">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
@@ -613,7 +707,7 @@
       <updated>1418051387949</updated>
       <workItem from="1418051391430" duration="1480000" />
       <workItem from="1418052924079" duration="4078000" />
-      <workItem from="1418057057991" duration="1691000" />
+      <workItem from="1418057057991" duration="1810000" />
     </task>
     <task id="LOCAL-00001" summary="local change.">
       <created>1418054014110</created>
@@ -627,11 +721,17 @@
       <option name="project" value="LOCAL" />
       <updated>1418058683276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="local change.">
+      <created>1418058767108</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1418058767108</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7249000" />
+    <option name="totallyTimeSpent" value="7368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
@@ -648,8 +748,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22301587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40734825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40734825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -813,13 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../drop-wizard-application/drop-wizard-application.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../drop-wizard-maven/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.74204355" vertical-offset="107" max-vertical-offset="704">
@@ -880,7 +973,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../drop-wizard-application/src/main/java/com.zonga.webservice/resources/MyResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45012787" vertical-offset="0" max-vertical-offset="391">
+        <state vertical-scroll-proportion="0.5146199" vertical-offset="0" max-vertical-offset="342">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
