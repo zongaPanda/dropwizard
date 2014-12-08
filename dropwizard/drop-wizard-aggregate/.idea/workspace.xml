@@ -673,7 +673,7 @@
       <updated>1418051387949</updated>
       <workItem from="1418051391430" duration="1480000" />
       <workItem from="1418052924079" duration="4078000" />
-      <workItem from="1418057057991" duration="2025000" />
+      <workItem from="1418057057991" duration="2099000" />
     </task>
     <task id="LOCAL-00001" summary="local change.">
       <created>1418054014110</created>
@@ -711,11 +711,17 @@
       <option name="project" value="LOCAL" />
       <updated>1418059063191</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="delete git ignore.">
+      <created>1418059098351</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1418059098351</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7583000" />
+    <option name="totallyTimeSpent" value="7657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
