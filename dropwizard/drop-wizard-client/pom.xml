@@ -18,8 +18,9 @@
 	
 	<dependencies>
 		<dependency>
-			<groupId>io.dropwizard</groupId>
-			<artifactId>dropwizard-core</artifactId>
+			<groupId>com.zonga.product</groupId>
+			<artifactId>com.zonga.api</artifactId>
+			<version>1.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
