@@ -24,8 +24,22 @@
     <build>
         <plugins>
             <plugin>
+                <groupId>org.codehaus.mojo</groupId>
                 <artifactId>jaxb2-maven-plugin</artifactId>
                 <version>1.6</version>
+                <executions>
+                    <execution>
+                        <id>xjc</id>
+                        <goals>
+                            <goal>xjc</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <packageName>com.zonga.ws.api</packageName>
+                    <outputDirectory>src/main/java</outputDirectory>
+                    <clearOutputDir>false</clearOutputDir>
+                </configuration>
             </plugin>
             <plugin>
                 <artifactId>maven-clean-plugin</artifactId>
@@ -34,9 +48,9 @@
                     <filesets>
                         <fileset>
                             <directory>${project.basedir}/src/main/java/com/zonga/ws/api</directory>
-                                <includes>
-                                    <include>**/*.java</include>
-                                </includes>
+                            <includes>
+                                <include>**/*.java</include>
+                            </includes>
                         </fileset>
                     </filesets>
                 </configuration>

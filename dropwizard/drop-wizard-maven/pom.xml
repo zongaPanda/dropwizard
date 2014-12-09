@@ -40,20 +40,6 @@
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>jaxb2-maven-plugin</artifactId>
                     <version>1.6</version>
-                    <executions>
-                        <execution>
-                            <id>xjc</id>
-                            <goals>
-                                <goal>xjc</goal>
-                            </goals>
-                        </execution>
-                    </executions>
-                    <configuration>
-                        <packageName>com.zonga.api</packageName>
-                        <outputDirectory>src/main/java</outputDirectory>
-                        <clearOutputDir>false</clearOutputDir>
-                        <target>2.1</target>
-                    </configuration>
                 </plugin>
                 <plugin>
                     <artifactId>maven-clean-plugin</artifactId>
