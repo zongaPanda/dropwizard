@@ -11,7 +11,6 @@
 		<relativePath>../drop-wizard-maven</relativePath>
 	</parent>
 
-    <groupId>com.zonga.product</groupId>
     <name>zonga-application</name>
     <artifactId>com.zonga.webservice</artifactId>
 	<packaging>jar</packaging>
